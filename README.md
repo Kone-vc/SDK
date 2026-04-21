@@ -2,6 +2,9 @@
 
 Drop-in **“Special Offers”** tab for any app. Adds a free personal AI assistant powered by **[https://kone.vc/](https://kone.vc/)** (an ad layer for AI tools). Features a chat-first UI, quick-question chips, and API key authentication.
 
+<img width="390" height="844" alt="image" src="https://github.com/user-attachments/assets/9dffcb3d-2cea-4b38-bfc7-1615704795e3" />
+
+
 ---
 
 ## About Kone
